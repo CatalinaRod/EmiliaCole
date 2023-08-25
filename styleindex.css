@@ -1,0 +1,44 @@
+
+body{
+    background-image:url(./img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 1200px 950px;
+}
+    .Titulos{
+        font-family: 'Raleway', sans-serif;
+        text-decoration: none;
+        font-size: 80px;
+        background-color: rgba(255, 255, 255, 0.387);
+        top: 200px;
+        position: relative;
+    }
+ .emilia{
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+ }
+
+ .inicio {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 15px;
+    line-height: 30px;
+ }
+div{
+    position: relative;
+    left: 30px;
+}
+
+.inicio .equipo a{
+    text-decoration: none;
+}
+
+.apps a{
+    text-decoration: none;
+    color: black;
+}
