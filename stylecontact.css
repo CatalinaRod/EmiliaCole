@@ -1,6 +1,6 @@
 
 .emilia{
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: black;
     font-size: 40px;
     position: relative;
@@ -12,16 +12,15 @@
     text-decoration: none;
     color: black;
     position: relative;
-    left: 15px;
+    left: 45px;
     line-height: 30px;
  }
 
-.subtitulocontact{
-    font-family: 'Open Sans', sans-serif;
+.subtitulocontact {
+    font-family: 'Raleway', sans-serif;
     color: black;
     font-size: 20px;
     position: relative;
-    text-decoration: solid;
 }
 
 .info{
@@ -30,6 +29,7 @@
     font-size: 15px;
     position: relative;
     text-decoration: solid;
+    top: 6px;
 }
 
 .inicio .equipo a{
@@ -39,4 +39,20 @@
 .apps a{
     text-decoration: none;
     color: black;
+}
+
+.contactos1 a{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    position: relative;
+}
+
+.contactos1 p{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    position: relative;
 }

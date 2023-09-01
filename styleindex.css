@@ -3,22 +3,22 @@ body{
     background-image:url(./img/home.jpg);
     background-repeat: no-repeat;
     background-position: center right;
-    background-size: 1200px 950px;
+    background-size: 1180px 1000px;
 }
     .Titulos{
         font-family: 'Raleway', sans-serif;
         text-decoration: none;
-        font-size: 80px;
+        font-size: 60px;
         background-color: rgba(255, 255, 255, 0.387);
-        top: 200px;
+        top: 280px;
         position: relative;
     }
  .emilia{
     font-family: 'Work Sans', sans-serif;
     color: black;
-    font-size: 40px;
+    font-size: 30px;
     position: relative;
-    top: 150px;
+    top: 100px;
  }
 
  .inicio {

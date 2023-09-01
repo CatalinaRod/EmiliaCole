@@ -1,11 +1,12 @@
 
 
- .emilia{
-    font-family: 'Work Sans', sans-serif;
+ .emilia {
+    font-family: 'Raleway', sans-serif;
     color: black;
     font-size: 40px;
     position: relative;
-    top: 100px;
+    top: 10px;
+    font-weight: bold;
  }
 
  .inicio {
@@ -13,7 +14,7 @@
     text-decoration: none;
     color: black;
     position: relative;
-    left: 15px;
+    left: 45px;
     line-height: 30px;
  }
 
@@ -25,3 +26,51 @@
     text-decoration: none;
     color: black;
 }
+
+.info{
+   font-family: 'Open Sans', sans-serif;
+   color: black;
+   font-size: 15px;
+   position: relative;
+   text-decoration: solid;
+}
+
+.Album {
+   font-family: 'Raleway', sans-serif;
+   color:black;
+   font-size: 20px;
+   position: relative;
+   top: 8px;
+}
+
+.Video {
+   margin-top: 30px;
+}
+
+
+.Titulovideo {
+   font-family: 'Raleway', sans-serif;
+   color: black;
+   margin-top: 50px;
+}
+
+.Imagen{
+   width: "200";
+   height: "150";
+   position: relative;
+   top: 15px;
+}
+
+.Canciones {
+   font-family: 'Open Sans', sans-serif;
+   list-style-type: decimal-leading-zero;
+   font-size: 15px;
+   position: relative;
+   top: 18px;
+}
+
+.Creditos p{
+   font-family: 'Open Sans', sans-serif;
+   color: black;
+}
+
